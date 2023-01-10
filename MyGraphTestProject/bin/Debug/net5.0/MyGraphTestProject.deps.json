@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyGraphTestProject/1.0.0": {
+        "dependencies": {
+          "GraphQL": "7.2.2"
+        },
+        "runtime": {
+          "MyGraphTestProject.dll": {}
+        }
+      },
+      "GraphQL/7.2.2": {
+        "dependencies": {
+          "GraphQL-Parser": "8.1.0",
+          "Microsoft.CSharp": "4.7.0",
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
+        "runtime": {
+          "lib/net5.0/GraphQL.dll": {
+            "assemblyVersion": "7.2.2.0",
+            "fileVersion": "7.2.2.0"
+          }
+        }
+      },
+      "GraphQL-Parser/8.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/GraphQLParser.dll": {
+            "assemblyVersion": "8.1.0.0",
+            "fileVersion": "8.1.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "System.ComponentModel.Annotations/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "MyGraphTestProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphQL/7.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wZiVnQKX2EdgfEkMKlGHzTZlgRYgsmmwBibEvAn4CefmsGpAp8HtJbbkig8HHgeTczB23Io1HslIVi9+oU/sfw==",
+      "path": "graphql/7.2.2",
+      "hashPath": "graphql.7.2.2.nupkg.sha512"
+    },
+    "GraphQL-Parser/8.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tGSA8V7iqgHLcyyeZwUsElbboKFqNLerewExyCsDqCqCexM50ktx5lBMXwPJjt0QFX0aI5H/HmJLyiQdFnx/cg==",
+      "path": "graphql-parser/8.1.0",
+      "hashPath": "graphql-parser.8.1.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    }
+  }
+}

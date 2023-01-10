@@ -1,0 +1,12 @@
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\bin\Debug\net5.0\MyGraphTestProject.deps.json
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\bin\Debug\net5.0\MyGraphTestProject.dll
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\bin\Debug\net5.0\MyGraphTestProject.pdb
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\MyGraphTestProject.csproj.AssemblyReference.cache
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\MyGraphTestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\MyGraphTestProject.AssemblyInfoInputs.cache
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\MyGraphTestProject.AssemblyInfo.cs
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\MyGraphTestProject.csproj.CoreCompileInputs.cache
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\MyGraphTestProject.dll
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\refint\MyGraphTestProject.dll
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\MyGraphTestProject.pdb
+D:\ProjectsHome\HomeProjects\MyGraphTestProject\obj\Debug\net5.0\ref\MyGraphTestProject.dll

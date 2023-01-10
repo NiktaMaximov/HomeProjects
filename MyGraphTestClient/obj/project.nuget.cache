@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPbfwWFpP0zEWZ+Du6Zjn+JoSBn6xZEYfllMCbRsVpCfXDi5xmfKomGtD3wcw3CRFogDDvojK/N/IitV58yLpw==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectsHome\\HomeProjects\\MyGraphTestClient\\MyGraphTestClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikita\\.nuget\\packages\\graphql\\7.2.2\\graphql.7.2.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\graphql-parser\\8.1.0\\graphql-parser.8.1.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\graphql.memorycache\\7.2.2\\graphql.memorycache.7.2.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\graphql.microsoftdi\\7.2.2\\graphql.microsoftdi.7.2.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\graphql.systemtextjson\\7.2.2\\graphql.systemtextjson.7.2.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.0\\microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.0\\microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

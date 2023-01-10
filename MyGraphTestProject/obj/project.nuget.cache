@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbQbmTkZwgf03k7wvGcBR6xek4erRcaVQ6w4qO3bP801aVz0t9ssNa9zV7K9/dst2hHBo2sjXXPer7U+1fPmwA==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectsHome\\HomeProjects\\MyGraphTestProject\\MyGraphTestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikita\\.nuget\\packages\\graphql\\7.2.2\\graphql.7.2.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\graphql-parser\\8.1.0\\graphql-parser.8.1.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
